@@ -1,0 +1,11 @@
+{
+    "name": "js-speedytree",
+    "version": "0.0.1",
+    "description": "Ultra-fast quadtree implementation in JavaScript for Node.JS.",
+    "main": "export.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Logos-King",
+    "license": "LICENSE.md"
+}
