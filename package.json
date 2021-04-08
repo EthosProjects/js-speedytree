@@ -1,6 +1,6 @@
 {
     "name": "js-speedytree",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Ultra-fast quadtree implementation in JavaScript for Node.JS.",
     "main": "export.js",
     "scripts": {
@@ -10,6 +10,7 @@
         "type": "git",
         "url": "git+https://github.com/Logos-King/js-speedytree.git"
      },
+    "type": "module",
     "author": "Logos-King",
     "license": "LICENSE.md"
 }
